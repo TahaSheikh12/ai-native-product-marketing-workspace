@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+*.zip
+
+# Keep generated deliverables local unless explicitly approved for publication.
+outputs/*
+!outputs/README.md
+
+# Optional private working area for a local copy.
+context/private/
